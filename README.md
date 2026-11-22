@@ -1,4 +1,4 @@
-# AI Code Review Companion Based on Quality Criteria
+# Code Review Bot Companion
 
 ## Overview
 
